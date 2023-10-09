@@ -3,7 +3,6 @@ We are Created The Attendance monitoring System with using Python It is basicall
 This project is a face recognition-based attendance system that uses OpenCV and Python. The system uses a camera to capture images of individuals and then compares them with the images in the database to mark attendance.
 
 # Installation
-Clone the repository to your local machine. git clone https://github.com/Arijit1080/Face-Recognition-Based-Attendance-System
 Install the required packages using pip install -r requirements.txt.
 Download the dlib models from https://drive.google.com/drive/folders/12It2jeNQOxwStBxtagL1vvIJokoz-DL4?usp=sharing and place the data folder inside the repo
 
